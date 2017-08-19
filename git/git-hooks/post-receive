@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# I put this as .git/hooks/post-receive under a repo residing on server and when I do a `git push` to it, it shows me this pretty message
+# I can also add post-deployment things here, like flushing cache etc
+
+echo "   /==========================="
+echo "   | DEPLOYMENT COMPLETED  👍"
+echo "   \==========================="
