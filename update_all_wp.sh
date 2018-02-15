@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 WPInstallPaths[0]='/Users/ashfame/www/httpscop.lo/www/'
 WPInstallPaths[1]='/Users/ashfame/www/alertyo.lo/www/'
