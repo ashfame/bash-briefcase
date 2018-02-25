@@ -25,5 +25,6 @@ for region in "${regions[@]}"
 do
     echo "Deploying to $region"
     AWS_REGION=$region up
+    echo "Deployed: " $(AWS_REGION=$region up url)
+    echo # echo new line
 done
-
