@@ -4,7 +4,6 @@ WPInstallPaths[0]='/Users/ashfame/www/httpscop.lo/www/'
 WPInstallPaths[1]='/Users/ashfame/www/alertyo.lo/www/'
 WPInstallPaths[2]='/Users/ashfame/www/redirecto.lo/www/'
 WPInstallPaths[3]='/Users/ashfame/www/blog.ashfame.lo/www/'
-WPInstallPaths[4]='/Users/ashfame/www/redirecto.lo/www/'
 
 for i in "${WPInstallPaths[@]}"
 do
